@@ -14,3 +14,5 @@ This repository provides a pipeline for **precipitation forecasting** using a ne
 - **Hyperparameter Optimization:** Utilizes Optuna to optimize model hyperparameters for better F1-Score on the "Rain" class.
 - **Evaluation:** Provides metrics such as Precision, Recall, F1-Score, and Confusion Matrix.
 - **Testing:** Includes a script to evaluate the trained model with predefined hyperparameters.
+
+![Confusion Matrix](images/test_confusion_matrix.png)
