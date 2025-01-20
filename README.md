@@ -15,4 +15,4 @@ This repository provides a pipeline for **precipitation forecasting** using a ne
 - **Evaluation:** Provides metrics such as Precision, Recall, F1-Score, and Confusion Matrix.
 - **Testing:** Includes a script to evaluate the trained model with predefined hyperparameters.
 
-![Confusion Matrix](images/test_confusion_matrix.png)
+![Confusion Matrix](test_confusion_matrix.png)
